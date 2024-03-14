@@ -1,5 +1,5 @@
 import React from "react";
-import { View,Text } from "react-native";
+import { View,Text,Button } from "react-native";
 
 export default function Title(){
     return(
@@ -8,6 +8,7 @@ export default function Title(){
         <Text>
            Aula sobre Clone e pastas. 
         </Text>
+        <Button title='Botão'></Button>
     </View>
 
 
