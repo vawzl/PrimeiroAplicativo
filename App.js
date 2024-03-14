@@ -5,7 +5,7 @@ import Title from './Title/';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Deyvid E Tierri</Text>
+      <Text>Deyvid</Text>
       <Text>07/03/2024</Text>
       <Title/>
       <Button title='Picora'></Button>
